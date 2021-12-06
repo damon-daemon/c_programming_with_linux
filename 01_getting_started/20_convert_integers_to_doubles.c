@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 int main(void){
+    int i;    
     int gradesToBeAveraged;
     double grade;
     double gradeTotal = 0;
-    int i;
 
     scanf("%d", &gradesToBeAveraged);
 
